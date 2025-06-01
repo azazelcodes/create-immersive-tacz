@@ -16,7 +16,7 @@
 **Optional steps to remove the Create Armorer recipes of the gun bench (recommended)**
 
 1.  Change the DefaultPackDebug option of .minecraft/tacz/tacz-pre.toml to true
-2.  Go to .minecraft/tacz and open the create armorer zip you downloaded (you can use winrar). Delete the recipes folder in data/create\_armorer/recipes
+2.  Go to .minecraft/tacz and open the folder you previously extracted Create Armorer to. Delete the recipes folder in data/create\_armorer/recipes
 
  
 
